@@ -52,6 +52,10 @@ mirix总结浏览内容，这时候模型就会完全无响应，
 
 
  <img width="468" height="213" alt="image" src="https://github.com/user-attachments/assets/09554ab4-7b44-4e69-913c-fcd787959ca8" />
+
+
+
+ 
 关于模型的理解能力：模型的理解能力欠佳，他有时不能很好的理解用户下达的命令，或者命令不够精确就无法执行。 
 
 
