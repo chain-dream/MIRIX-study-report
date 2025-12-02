@@ -52,21 +52,6 @@ Knowledge Vault	用于保存敏感／精确的事实信息，如账号、凭证�
 
 <img width="468" height="162" alt="image" src="https://github.com/user-attachments/assets/68faa393-891c-4f3a-b0f7-ef473db27078" />
 
-
-
-
-
-
-
-模型还会根据用户使用情况画出简易的图来总结:
-<img width="468" height="484" alt="image" src="https://github.com/user-attachments/assets/9f4ec6da-1ac5-49b7-b05e-9efd25a528ee" />
-
- 
-
-
-
-
-
 模型“识别”的关键机制
 
 从“识别”角度来看，MIRIX 执行以下关键操作，使其能够“理解”／“记住”／“调用”信息：
