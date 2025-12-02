@@ -66,7 +66,7 @@ mirix总结浏览内容，这时候模型就会完全无响应，
 关键信息：
 模型对于关键信息的拓展还是非常强力的，例如我使用模型浏览了很长时间的某主题内容但是模型可以把其中某些关键信息提取出来并扩展。（只能几个当中出现1-3个丢失较大） 
 
-<img width="468" height="162" alt="image" src="https://github.com/user-attachments/assets/68faa393-891c-4f3a-b0f7-ef473db27078" />
+<img width="468" height="162" alt="image" src="https://github.com/user-attachments/assets/68faa393-891c-4f3a-b0f7-ef473db27078"/>
 
 模型“识别”的关键机制
 
