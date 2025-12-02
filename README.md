@@ -41,9 +41,15 @@ Knowledge Vault	用于保存敏感／精确的事实信息，如账号、凭证�
 如果时长超过2小时，那么模型就只能做到单一重复的任务，例如记录下用户在浏览什么网页，但是细节会大量丢失。
 
 
+
 总结：模型的记忆能力很出色，但是响应能力不是很强，记忆可以保存大量的信息，及时关键细节丢失。
-关于模型的理解能力：模型的理解能力欠佳，他有时不能很好的理解用户下达的命令，或者命令不够精确就无法执行。 
+
+
  <img width="468" height="213" alt="image" src="https://github.com/user-attachments/assets/09554ab4-7b44-4e69-913c-fcd787959ca8" />
+关于模型的理解能力：模型的理解能力欠佳，他有时不能很好的理解用户下达的命令，或者命令不够精确就无法执行。 
+
+
+
 
  
 <img width="468" height="85" alt="image" src="https://github.com/user-attachments/assets/b8ba4f6b-2da4-4414-8eb3-5dd6e8aba0fc" />
