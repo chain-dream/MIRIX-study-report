@@ -24,7 +24,8 @@ Knowledge Vault	用于保存敏感／精确的事实信息，如账号、凭证�
 6.	记忆更新：如果用户输入包含新的信息（如新的偏好、新事件、截图内容等），系统会将新信息路由到合适的记忆模块并进行存储／更新。
 
 这种流程让系统不仅“回答当前问题”，还同时“识别”用户上下文、更新记忆、并在后续交互中使用这些记忆，从而提升连贯性和个性化。
-关于相应的使用体验：<img width="468" height="131" alt="image" src="https://github.com/user-attachments/assets/071bdf5d-13d4-4dae-9652-fb6ec134af8b" />
+关于相应的使用体验：
+<img width="468" height="131" alt="image" src="https://github.com/user-attachments/assets/071bdf5d-13d4-4dae-9652-fb6ec134af8b" />
 
 
 
@@ -34,7 +35,8 @@ Knowledge Vault	用于保存敏感／精确的事实信息，如账号、凭证�
  
 
 恰当使用实例：在使用时间恰当的时候即使是92页的内容也能完成总结。
- 不当使用实例：<img width="468" height="212" alt="image" src="https://github.com/user-attachments/assets/ad43acab-9313-4f66-bd99-cfb9bae881d8" />
+ 不当使用实例：
+ <img width="468" height="212" alt="image" src="https://github.com/user-attachments/assets/ad43acab-9313-4f66-bd99-cfb9bae881d8" />
 
 如果时长超过2小时，那么模型就只能做到单一重复的任务，例如记录下用户在浏览什么网页，但是细节会大量丢失。
 
@@ -42,6 +44,8 @@ Knowledge Vault	用于保存敏感／精确的事实信息，如账号、凭证�
 总结：模型的记忆能力很出色，但是响应能力不是很强，记忆可以保存大量的信息，及时关键细节丢失。
 关于模型的理解能力：模型的理解能力欠佳，他有时不能很好的理解用户下达的命令，或者命令不够精确就无法执行。 
  <img width="468" height="213" alt="image" src="https://github.com/user-attachments/assets/09554ab4-7b44-4e69-913c-fcd787959ca8" />
+
+ 
 <img width="468" height="85" alt="image" src="https://github.com/user-attachments/assets/b8ba4f6b-2da4-4414-8eb3-5dd6e8aba0fc" />
 
 上文中提到的内容模型不会进行联想。
